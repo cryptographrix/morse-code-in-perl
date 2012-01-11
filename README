@@ -1,0 +1,9 @@
+One morning, I woke up really bored.
+
+I was sooo bored that I decided to write a morse code raw PCM generator in perl.
+
+This is the result of that morning.  It is dumb to do it this way, but it is a good intro to writing raw PCM audio.
+
+Look at the comments of the code for an intro on how to run it.
+
+
